@@ -1,0 +1,14 @@
+Work completed for University of Waterloo CS Reading class.
+Topic: Spelling Suggestions for name queries
+Dayang Shi 2015
+Files provided were used to learn about the task of spelling suggestions.
+Included with the source files are data sources used, including publicly available Birkbeck spelling data found through
+blog.afterthedeadline.com
+Peter Norvig's blog post norvig.com/spell-correct.html
+and US Census data.
+
+Packages required:
+commons-codec-1.10
+commons-lang3-3.3.2
+lucene-analyzers-common-4.10.3
+lucene-core-4.10.3
